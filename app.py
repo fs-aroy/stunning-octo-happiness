@@ -7,5 +7,8 @@ def test_fun(bee=''):
 def foo():
     print('some function')
 
+
 def sum(a, b):
   return a + b
+
+print(test_fun('Test string'))
