@@ -7,4 +7,4 @@ def test_fun(bee=''):
 def foo():
     print('some function')
 
-
+print(test_fun('Test string'))
